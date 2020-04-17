@@ -274,13 +274,13 @@
 	],
 	"file_history":
 	[
+		"/C/xampp/htdocs/vers3/css/styles.css",
 		"/C/xampp/htdocs/vers2/index5.php",
 		"/C/xampp/htdocs/vers3/index.html",
 		"/C/xampp/htdocs/vers3/css/response_479.css",
 		"/C/xampp/htdocs/vers3/css/response_767.css",
 		"/C/xampp/htdocs/vers3/css/response_1023.css",
 		"/C/xampp/htdocs/vers3/css/response_1185.css",
-		"/C/xampp/htdocs/vers3/css/styles.css",
 		"/C/xampp/htdocs/vers3/index2.html",
 		"/C/xampp/htdocs/vers3/index3.html",
 		"/C/xampp/htdocs/vers3/checkout.html",
@@ -405,7 +405,7 @@
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 48.0
 	},
 	"find_in_files":
 	{
