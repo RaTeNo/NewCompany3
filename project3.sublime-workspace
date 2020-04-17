@@ -1,0 +1,640 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background-size\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"pa",
+				"padding-bottom\tproperty"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"marin-",
+				"margin-bottom\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"box-",
+				"box-shadow\tproperty"
+			],
+			[
+				"no",
+				"no_margin"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"bo",
+				"bottom\tproperty"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"alig",
+				"align-self\tproperty"
+			],
+			[
+				"flex-",
+				"flex-shrink\tproperty"
+			],
+			[
+				"co",
+				"content\tproperty"
+			],
+			[
+				"p",
+				"padding\tproperty"
+			],
+			[
+				"bor-",
+				"border-radius\tproperty"
+			],
+			[
+				"f",
+				"fixed\tposition"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"pad",
+				"padding-right\tproperty"
+			],
+			[
+				"border-bor",
+				"border-bottom-color\tproperty"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"re",
+				"relative\tposition"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"r",
+				"right\tproperty"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"trans",
+				"transition\tproperty"
+			],
+			[
+				"t",
+				"transition\tproperty"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"slid",
+				"slideUp〔function〕"
+			],
+			[
+				"pay",
+				"pay_method.html"
+			],
+			[
+				"a",
+				"auto\theight"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"modal",
+				"modal_link"
+			],
+			[
+				"insta",
+				"insta"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"parse",
+				"parse_url〔function〕"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"margn",
+				"margin-bottom\tproperty"
+			],
+			[
+				"quer",
+				"querySelector"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"cur",
+				"cursor\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"sli",
+				"slideDown〔function〕"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"reload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"livereloa",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/vers3",
+		"/C/xampp/htdocs/vers3/css",
+		"/C/xampp/htdocs/vers3/js"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/vers2/index5.php",
+		"/C/xampp/htdocs/vers3/index.html",
+		"/C/xampp/htdocs/vers3/css/response_479.css",
+		"/C/xampp/htdocs/vers3/css/response_767.css",
+		"/C/xampp/htdocs/vers3/css/response_1023.css",
+		"/C/xampp/htdocs/vers3/css/response_1185.css",
+		"/C/xampp/htdocs/vers3/css/styles.css",
+		"/C/xampp/htdocs/vers3/index2.html",
+		"/C/xampp/htdocs/vers3/index3.html",
+		"/C/xampp/htdocs/vers3/checkout.html",
+		"/C/xampp/htdocs/vers3/checkout_success.html",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/divination.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/styles.css",
+		"/C/xampp/htdocs/vers3/js/scripts.js",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/widget.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/functions.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/header.php",
+		"/C/xampp/htdocs/vers3/index5.html",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/sidebar.php",
+		"/C/xampp/htdocs/vers3/css/owl.carousel.css",
+		"/C/xampp/htdocs/vers3/index4.html",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/single.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/comments.php",
+		"/C/xampp/htdocs/vers3/product.html",
+		"/C/xampp/htdocs/vers3/js/functions.js",
+		"/C/xampp/htdocs/vers3/news.html",
+		"/C/xampp/htdocs/vers3/category.html",
+		"/C/xampp/htdocs/vers3/contacts.html",
+		"/C/xampp/htdocs/vers3/css/ion.rangeSlider.css",
+		"/C/xampp/htdocs/vers3/cart.html",
+		"/C/xampp/htdocs/vers3/article.html",
+		"/C/Users/RaTeN/Downloads/Shape (7).svg",
+		"/C/Users/RaTeN/Downloads/icons8-down_arrow.svg",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/style.css",
+		"/C/xampp/htdocs/vers3/images/dot_gray.svg",
+		"/C/Users/RaTeN/Downloads/icons8-down_arrow (1).svg",
+		"/C/Users/RaTeN/Downloads/icons8-quote_left.svg",
+		"/C/xampp/htdocs/vers3/images/arrow.svg",
+		"/C/Users/RaTeN/Downloads/Path.svg",
+		"/C/xampp/htdocs/vers2/css/styles.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/footer 3.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-subsribe.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/.htaccess 2",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-feed.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/scripts.js",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/search.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/wp-config.php",
+		"/E/WebServers/home/localhost/www/kip/wp-content/themes/raten/functions.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/footer.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/robots.txt",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/.htaccess",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/footer 2.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/i.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/BillController.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/BillController 2.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/RoboxController.php",
+		"/C/xampp/htdocs/pc/wp-content/themes/raten/widget/widget.php",
+		"/C/xampp/htdocs/pc/wp-content/themes/raten/subscribe.php",
+		"/C/xampp/htdocs/pc/wp-content/themes/raten/page-subsribe.php",
+		"/C/xampp/htdocs/pc/wp-content/themes/raten/css/styles.css",
+		"/C/xampp/htdocs/pc/wp-content/themes/raten/js/scripts.js",
+		"/C/xampp/htdocs/pc/wp-content/themes/raten/footer.php",
+		"/C/xampp/htdocs/pc/wp-content/themes/raten/page-feed.php",
+		"/C/xampp/htdocs/pc/wp-content/themes/raten/functions.php",
+		"/C/xampp/htdocs/pc/wp-content/themes/raten/js2/scripts.js",
+		"/C/xampp/htdocs/pc/wp-content/themes/raten/single.php",
+		"/C/xampp/htdocs/pc/wp-content/themes/raten/css2/styles.css",
+		"/C/xampp/htdocs/pc/wp-content/themes/raten/index.php",
+		"/C/xampp/htdocs/pc/wp-content/themes/raten/category.php",
+		"/C/xampp/htdocs/pc/wp-content/themes/raten/page-map.php",
+		"/C/xampp/htdocs/pc/wp-content/themes/raten/page.php",
+		"/C/xampp/htdocs/pc/wp-content/themes/raten/related_posts.php",
+		"/C/xampp/htdocs/pc/wp-content/themes/raten/404.php",
+		"/C/xampp/htdocs/pc/wp-content/themes/raten/sidebar.php",
+		"/C/xampp/htdocs/pc/wp-content/themes/raten/header.php",
+		"/C/xampp/htdocs/pc/wp-content/themes/raten/post.html",
+		"/E/WebServers/home/localhost/www/kip/wp-content/themes/raten/widget/widget.php",
+		"/C/xampp/htdocs/pc/wp-content/themes/raten/search.php",
+		"/E/Универсальность/Борисов/Универсальный шаблон борисова!!!/raten/page-feed.php",
+		"/C/xampp/htdocs/pc/wp-content/themes/raten/comments.php",
+		"/C/xampp/htdocs/pc/wp-content/themes/raten/subscribe.html",
+		"/C/xampp/htdocs/pc/wp-content/themes/raten/index.html",
+		"/C/xampp/htdocs/pc/wp-content/themes/raten/category.html",
+		"/C/xampp/htdocs/pc/wp-content/themes/raten/error.html",
+		"/C/xampp/htdocs/vers/css/response_479.css",
+		"/C/xampp/htdocs/vers/css/response_767.css",
+		"/C/xampp/htdocs/vers/css/response_1023.css",
+		"/C/xampp/htdocs/vers/css/response_1185.css",
+		"/C/xampp/htdocs/vers/css/styles.css",
+		"/C/xampp/htdocs/vers/index.html",
+		"/C/xampp/htdocs/vers2/css/response_767.css",
+		"/C/xampp/htdocs/vers2/index.html",
+		"/C/xampp/htdocs/vers2/js/file.js",
+		"/C/xampp/htdocs/vers2/index5.html",
+		"/C/xampp/htdocs/vers2/js/scripts.js",
+		"/C/Users/RaTeN/AppData/Local/Temp/Rar$DRa23108.4111/multiple-file-uploader/dist/index.html",
+		"/C/xampp/htdocs/vers2/css/response_479.css",
+		"/C/xampp/htdocs/vers2/css/response_1023.css",
+		"/C/xampp/htdocs/vers2/css/response_1185.css",
+		"/C/xampp/htdocs/vers2/product.html",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/styles 2.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/style 2.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/header 2.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/single 2.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/content.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page 2.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/category 2.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/main.js",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-thanks.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-brief.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-services.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-contacts.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-rate.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-about.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/404.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-map.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/functions 2.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/styles 3.css",
+		"/C/xampp/htdocs/vers2/js/functions.js",
+		"/C/xampp/htdocs/vers2/category.html",
+		"/C/xampp/htdocs/vers2/news.html",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/category.php",
+		"/C/Users/RaTeN/OneDrive/Desktop/Новая папка (4)/Новая папка/stylesheet.css",
+		"/C/xampp/htdocs/vers2/css/owl.carousel.css",
+		"/C/xampp/htdocs/vers2/css/styles — копия.css",
+		"/C/Users/RaTeN/AppData/Roaming/Sublime Text 3/Packages/CSScomb/package-lock.json"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".soc_block .widget",
+			"url",
+			".soc_block .widget",
+			".products .product .price",
+			"dayofmonth",
+			"mont",
+			".big_boss_quote .info .flex",
+			".articles .article .info",
+			".vacancies .item",
+			".articles .slider",
+			"how",
+			".soc_block .info",
+			".services .service",
+			".team .item",
+			".faq .item .title",
+			".mob_header .mob_menu_link",
+			".main_slider3 .img",
+			".main_slider3 .info",
+			".main_slider .owl-carousel .owl-nav button",
+			".owl-carousel .owl-nav button.owl-prev",
+			".main_slider .slide .title",
+			".first_section .info .desc",
+			".products .flex.mob_slider",
+			".product_info .image",
+			".news .article",
+			"news_category",
+			"icon",
+			".content .products .flex > *",
+			".pagination .prev, .pagination .next",
+			".submit_btn",
+			".filter  .submit_btn",
+			".filter .submit_btn",
+			"aside .filter .submit_btn",
+			".content .products .product .name",
+			".cart_info .product .amount .input",
+			".article_info .head .thumb",
+			".text_block img",
+			".main",
+			"inner",
+			"директ",
+			".owl-carousel .owl-nav button span",
+			".block_head .title",
+			".removal-button",
+			".upload .cont",
+			".upload .cont:after",
+			".removal-button",
+			".upload .file-uploader ",
+			".upload .file-uploader * svg",
+			".upload .cont:after",
+			".products .link",
+			".block_head .desc",
+			".text_block",
+			".block_head .link",
+			"widget",
+			".ads_block .item .name",
+			".ads_block .item",
+			".team .slider",
+			".stocks .slider",
+			".contacts_block .map",
+			".order_block",
+			"--font_size",
+			"font_size",
+			".prices .item",
+			".block_head .desc",
+			".block_head .desc ",
+			".prices .cont::after",
+			".video_reviews .review",
+			".big_boss_quote .cont:after",
+			".owl-carousel .owl-nav button.owl-prev",
+			".reviews .slider",
+			".block_head .desc",
+			".block_head .all_link",
+			".block_head .desc",
+			".advantages .item",
+			".block_head .title",
+			".text_block",
+			".about .img",
+			".block_head .title",
+			"link",
+			".bottom",
+			"mob_scroll",
+			"rubik",
+			"https://sf.abarba.me/",
+			"#1b1b1b;",
+			"font-we",
+			"br",
+			"sp",
+			"json_robox",
+			"robox",
+			"contact_form",
+			"топ"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"../fonts/",
+			"#626262;",
+			"#626262"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 58.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 106.0
+	},
+	"pinned_build_system": "",
+	"project": "project3.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\vers2\\project2.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
