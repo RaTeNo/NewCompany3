@@ -1391,4 +1391,20 @@
     /*---------------
         PopUp
     ---------------*/
+
+    .products_sort {
+        display: none;
+    }
+    .products_sort b{
+        display: block;
+    }
+    .sorting_switcher li{
+        margin-top: 20px;
+        display: block;
+    }
+
+    .products_sort_mobile{
+        display: block;
+    }
+
 }

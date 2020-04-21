@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"wo",
+				"word-wrap\tproperty"
+			],
+			[
 				"bac",
 				"background-size\tproperty"
 			],
@@ -274,9 +278,11 @@
 	],
 	"file_history":
 	[
+		"/C/xampp/htdocs/vers3/product.html",
 		"/C/xampp/htdocs/vers3/css/styles.css",
-		"/C/xampp/htdocs/vers2/index5.php",
 		"/C/xampp/htdocs/vers3/index.html",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/main.php",
+		"/C/xampp/htdocs/vers2/index5.php",
 		"/C/xampp/htdocs/vers3/css/response_479.css",
 		"/C/xampp/htdocs/vers3/css/response_767.css",
 		"/C/xampp/htdocs/vers3/css/response_1023.css",
@@ -298,7 +304,6 @@
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/single.php",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page.php",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/comments.php",
-		"/C/xampp/htdocs/vers3/product.html",
 		"/C/xampp/htdocs/vers3/js/functions.js",
 		"/C/xampp/htdocs/vers3/news.html",
 		"/C/xampp/htdocs/vers3/category.html",
@@ -400,8 +405,7 @@
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/category.php",
 		"/C/Users/RaTeN/OneDrive/Desktop/Новая папка (4)/Новая папка/stylesheet.css",
 		"/C/xampp/htdocs/vers2/css/owl.carousel.css",
-		"/C/xampp/htdocs/vers2/css/styles — копия.css",
-		"/C/Users/RaTeN/AppData/Roaming/Sublime Text 3/Packages/CSScomb/package-lock.json"
+		"/C/xampp/htdocs/vers2/css/styles — копия.css"
 	],
 	"find":
 	{
@@ -590,7 +594,7 @@
 	"project": "project3.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 90.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -610,7 +614,7 @@
 		[
 			[
 				"",
-				"C:\\xampp\\htdocs\\vers2\\project2.sublime-project"
+				"C:\\xampp\\htdocs\\vers\\project1.sublime-project"
 			]
 		],
 		"width": 380.0
