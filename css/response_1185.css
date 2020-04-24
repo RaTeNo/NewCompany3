@@ -352,6 +352,7 @@
     .products .product .price{
         font-weight: 300;
         font-size: 15px;
+        min-width: auto;
     }
 
 

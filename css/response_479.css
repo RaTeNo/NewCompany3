@@ -958,4 +958,14 @@
     .three_photo .photo .img1{
         width: auto
     }
+
+    .documents  .block_head, .order_block .block_head, .team .block_head, .vacancies .block_head {
+        align-content: flex-start;
+        flex-wrap: wrap;
+        flex-direction: row;
+        max-width: 100%;
+    }
+    .block.right_left50 .block_head .title{
+        max-width: 100%;    
+    }
 }

@@ -224,11 +224,11 @@
 		"selected_items":
 		[
 			[
-				"reload",
+				"live",
 				"LiveReload: Enable/disable plug-ins"
 			],
 			[
-				"live",
+				"reload",
 				"LiveReload: Enable/disable plug-ins"
 			],
 			[
@@ -278,22 +278,23 @@
 	],
 	"file_history":
 	[
-		"/C/xampp/htdocs/vers3/product.html",
 		"/C/xampp/htdocs/vers3/css/styles.css",
 		"/C/xampp/htdocs/vers3/index.html",
+		"/C/xampp/htdocs/vers3/css/response_479.css",
+		"/C/xampp/htdocs/vers3/category.html",
+		"/C/xampp/htdocs/vers3/css/response_1185.css",
+		"/C/xampp/htdocs/vers3/css/response_767.css",
+		"/C/xampp/htdocs/vers3/js/scripts.js",
+		"/C/xampp/htdocs/vers3/product.html",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/main.php",
 		"/C/xampp/htdocs/vers2/index5.php",
-		"/C/xampp/htdocs/vers3/css/response_479.css",
-		"/C/xampp/htdocs/vers3/css/response_767.css",
 		"/C/xampp/htdocs/vers3/css/response_1023.css",
-		"/C/xampp/htdocs/vers3/css/response_1185.css",
 		"/C/xampp/htdocs/vers3/index2.html",
 		"/C/xampp/htdocs/vers3/index3.html",
 		"/C/xampp/htdocs/vers3/checkout.html",
 		"/C/xampp/htdocs/vers3/checkout_success.html",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/divination.php",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/styles.css",
-		"/C/xampp/htdocs/vers3/js/scripts.js",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/widget.php",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/functions.php",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/header.php",
@@ -306,7 +307,6 @@
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/comments.php",
 		"/C/xampp/htdocs/vers3/js/functions.js",
 		"/C/xampp/htdocs/vers3/news.html",
-		"/C/xampp/htdocs/vers3/category.html",
 		"/C/xampp/htdocs/vers3/contacts.html",
 		"/C/xampp/htdocs/vers3/css/ion.rangeSlider.css",
 		"/C/xampp/htdocs/vers3/cart.html",
@@ -423,6 +423,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			".products .product .price",
+			".socials",
+			".order_block .socials",
+			"footer .links>*",
+			"header .socials a.more",
 			".soc_block .widget",
 			"url",
 			".soc_block .widget",
@@ -614,7 +619,7 @@
 		[
 			[
 				"",
-				"C:\\xampp\\htdocs\\vers\\project1.sublime-project"
+				"C:\\xampp\\htdocs\\vers4\\project4.sublime-project"
 			]
 		],
 		"width": 380.0
