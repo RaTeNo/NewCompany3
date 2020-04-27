@@ -4798,7 +4798,10 @@ color: #fff;
 }
 
 .soc_inst.soc_block .widget iframe{
-
+    width: 100%;
+}
+.soc_inst.soc_block .widget{
+    width: 376px;
 }
 
 .payment .cont
