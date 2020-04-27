@@ -279,9 +279,10 @@
 	"file_history":
 	[
 		"/C/xampp/htdocs/vers3/index.html",
-		"/C/xampp/htdocs/vers3/product.html",
+		"/C/xampp/htdocs/vers3/js/scripts.js",
 		"/C/xampp/htdocs/vers3/css/styles.css",
 		"/C/xampp/htdocs/vers3/category.html",
+		"/C/xampp/htdocs/vers3/product.html",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/Client.php",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/test 2.php",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/test.php",
@@ -332,7 +333,6 @@
 		"/C/xampp/htdocs/vers3/css/response_479.css",
 		"/C/xampp/htdocs/vers3/css/response_1185.css",
 		"/C/xampp/htdocs/vers3/css/response_767.css",
-		"/C/xampp/htdocs/vers3/js/scripts.js",
 		"/C/xampp/htdocs/vers2/index5.php",
 		"/C/xampp/htdocs/vers3/css/response_1023.css",
 		"/C/xampp/htdocs/vers3/index2.html",
@@ -409,7 +409,7 @@
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 48.0
 	},
 	"find_in_files":
 	{
@@ -608,7 +608,7 @@
 	"project": "project3.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 90.0
 	},
 	"save_all_on_build": true,
 	"select_file":
