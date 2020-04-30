@@ -4884,16 +4884,17 @@ color: #fff;
     object-fit: cover;
 }
 
-.services .service .info
-{
+.services .service .info {
     position: absolute;
     z-index: 5;
     bottom: 0;
     left: 0;
-    padding: 18px 22px 9px 22px;
+    padding: 15px;
     background: #fff;
     margin-left: 40px;
     width: calc(100% - 40px);
+    display: flex;
+    flex-direction: column;
 }
 
 .services .service .name {
@@ -4902,7 +4903,6 @@ color: #fff;
     line-height: 30px;
     letter-spacing: 0.52px;
     color: #7C7C7C;
-    margin-bottom: 70px;
 }
 
 .services .service .name span{
@@ -4912,9 +4912,12 @@ color: #fff;
     box-shadow: none;
     display: flex;
     align-items: center;
-    position: absolute;
-    right: 0;
-    bottom: 0;
+    justify-content: flex-end;
+    width: auto;
+    margin-left: auto;
+    position: relative;
+    bottom: -15px;
+    right: -15px;
 }
 .services .service .link svg{
     margin-left:10px;
@@ -6920,9 +6923,9 @@ button:disabled
     display: block;
 }
 
-.socials_block .socials a + a
+.socials_block .socials a
 {
-    margin-left: 20px;
+    margin: 0 10px 20px;
 }
 
 .socials_block .socials img

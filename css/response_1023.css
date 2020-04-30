@@ -1422,9 +1422,9 @@
         padding-right: 30px;
     }
 
-    .socials_block .socials a + a
+    .socials_block .socials a 
     {
-        margin-left: 9px;
+         margin: 0 10px 10px;
     }
 
     .socials_block .socials img
