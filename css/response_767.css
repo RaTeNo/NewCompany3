@@ -109,7 +109,6 @@
     ---------------*/
     .mob_header
     {
-        margin-bottom: 30px;
         padding: 15px 0 0;
     }
 
@@ -571,7 +570,7 @@
 
     .first_section .img
     {
-        margin: 35px auto 30px;
+        margin: 0px auto 30px;
         order: -1;
     }
 
@@ -822,6 +821,8 @@
 
     .order_block .socials a{
         margin-bottom: 15px;
+        margin-left: 5px;
+        margin-right: 5px;
     }
 
     .video_reviews .slider
@@ -1314,7 +1315,7 @@
             width: 14px;
     }
     .services{
-        padding:50px 0;
+
     }
 
     .products .product .price{
@@ -1358,7 +1359,7 @@
     }
 
     .gallery2{
-        padding: 50px 0;
+
     }
 
     .cart_info .product .price.total{
@@ -1405,6 +1406,18 @@
 
     .products_sort_mobile{
         display: block;
+    }
+
+    .soc_vk.block.left_right:after, .soc_inst.block.right_left:after{
+        width: 100%
+    }
+
+    .image_tips{
+        padding-top:40px;
+    }
+
+    .order_block .form input[type=checkbox] + label{
+        max-width: 200px;
     }
 
 }

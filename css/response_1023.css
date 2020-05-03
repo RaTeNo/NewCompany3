@@ -644,7 +644,7 @@
     }
 
     .products{
-        padding:20px 0;
+
     }
 
     .products .flex.mob_slider
@@ -927,7 +927,6 @@
 
     .reviews .slider_wrap
     {
-        padding-bottom: 40px;
     }
 
     .reviews .slider_wrap:after

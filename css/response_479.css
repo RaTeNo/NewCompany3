@@ -44,6 +44,17 @@
         max-width: 100%;
      }
 
+    .block:not(.new_bg){
+        margin-top: 60px;
+    }
+    
+    .new_bg + .block:not(.new_bg) {
+        margin-top: 60px;
+    }
+
+    .mob_header + .block:not(.new_bg){
+        margin-top: 60px;
+    }
 
     .pagination
     {
@@ -518,6 +529,7 @@
     .documents .flex > *
     {
         width: calc(50% - 20px);
+        margin-left:0;
     }
 
 
@@ -879,6 +891,7 @@
         font-weight: 300;
         font-size: 13px;
         line-height: 17px;
+        padding:0;
     }
 
     .prices .item .link{
@@ -967,5 +980,18 @@
     }
     .block.right_left50 .block_head .title{
         max-width: 100%;    
+    }
+
+    .order_block.block.right_left50 .block_head .title span, .agree label a{
+            color: var(--main_color2);
+    }
+
+    
+    .mob_header + .cart_info.block , .mob_header + .article_info.block , .mob_header + .category.block , .mob_header + .checkout_info.block , .mob_header + .news.block , .mob_header + .product_info.block   {
+        margin-top:40px;
+    }
+
+    .order_block .form input[type=checkbox] + label{
+        max-width: 100%;
     }
 }
