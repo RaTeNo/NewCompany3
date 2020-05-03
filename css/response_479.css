@@ -994,4 +994,8 @@
     .order_block .form input[type=checkbox] + label{
         max-width: 100%;
     }
+
+    .quiz_poll{
+        padding:0;
+    }
 }

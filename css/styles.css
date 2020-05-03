@@ -7028,6 +7028,7 @@ button:disabled
 }
 .quiz_poll {
     background: var(--main_color1);
+    padding:40px 0;
 }
 
 .quiz_poll .cont
