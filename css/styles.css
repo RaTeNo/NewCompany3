@@ -8014,3 +8014,14 @@ footer .links a:hover
 .cart_info.block , .article_info.block , .category.block , .checkout_info.block , .news.block , .product_info.block   {
     margin-top:40px;
 }
+
+
+.main_slider .owl-carousel .owl-stage {
+    display: flex;
+}
+
+.main_slider .slide {
+    display: flex;
+    flex: 1 0 auto;
+    height: 100%;
+}
