@@ -311,8 +311,6 @@
 
     .product_info .image
     {
-        width: calc(100% - 140px);
-        padding-bottom: calc(100% - 140px);
 
     }
 
@@ -335,7 +333,6 @@
     .product_info .buy .order_link
     {
         width: 100%;
-        margin-top: 20px;
         height: 35px;
         font-weight: 600;
         font-size: 12px;
@@ -344,9 +341,6 @@
     }
 
      .product_info .buy .back_link{
-        margin: 0 auto;
-        margin-top:20px;
-        margin-top: 20px;
         height: 35px;
         font-weight: 600;
         font-size: 12px;
@@ -831,9 +825,6 @@
 	}
 
     .product_info .buy .btn{
-        margin-left: auto;
-        margin-right: auto;
-        margin-top: 0px;
     }
     
     .owl-carousel .owl-nav button{
@@ -997,5 +988,12 @@
 
     .quiz_poll{
         padding:0;
+    }
+
+    .product_info .buy .price{
+        font-size: 14px;
+    }
+    .product_info .buy .price .val{
+        font-size: 30px;
     }
 }

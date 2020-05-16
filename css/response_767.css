@@ -1461,5 +1461,14 @@
         height: 95px;
     }
 
+    /*новые*/
+
+    .product_info .image
+    {
+        width: 100%;
+        margin: 0;
+        padding-bottom: 100%;
+    }
+
 
 }

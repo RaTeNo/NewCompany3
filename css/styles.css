@@ -4992,7 +4992,7 @@ color: #fff;
     color: #fff;
 
     position: absolute;
-    z-index: 100;
+    z-index: 98;
     top: 0;
     right: 0;
     bottom: 0;
@@ -5796,7 +5796,6 @@ button:disabled
 {
     margin-right: auto;
     white-space: nowrap;
-    width: 100%;
 
 }
 
@@ -5804,8 +5803,8 @@ button:disabled
 {
     color: var(--main_color2);
     font-weight: 300;
-    font-size: 47px;
-    line-height: 56px;
+    font-size: 36px;
+    line-height: 50px;
 }
 
 .product_info .buy .price span
@@ -5818,7 +5817,6 @@ button:disabled
     font: 700 10px/39px var(--font_family);
     cursor: pointer;
     transition: .2s linear;
-    text-transform: uppercase;
     border: none;
     color: #fff;
     font-size: 18px;
@@ -5835,7 +5833,6 @@ button:disabled
     background: var(--main_color1);
     box-shadow: -10px 10px 0 0 var(--box-shadow-color2);
     margin-left: 20px;
-    margin-top:20px;
 }
 
 
@@ -5844,7 +5841,8 @@ button:disabled
 {
     position: relative;
     max-width: 100%;
-    margin-top: 20px;
+    margin-left:20px;
+
 }
 
 .product_info .buy .buy_link

@@ -604,16 +604,11 @@
 
     .product_info .buy .price
     {
-        font-size: 15px;
-        line-height: 19px;
     }
 
     .product_info .buy .price .val
     {
-        font-size: 24px;
-        line-height: 26px;
 
-        margin-top: 4px;
     }
 
     .product_info .buy .buy_link,
@@ -621,7 +616,8 @@
     {
         height: 51px;
         padding: 12px 37px;
-        font-size: 14px;
+        font-size: 18px;
+        font-weight: normal;
     }
 
     .product_info .desc
