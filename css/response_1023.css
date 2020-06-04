@@ -258,6 +258,8 @@
         text-align: left;
 
         border-radius: 0;
+        
+        white-space: normal;
     }
 
 
