@@ -216,19 +216,10 @@
 	"buffers":
 	[
 		{
-			"file": "css/response_1023.css",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 23174,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "article.html",
-			"settings":
-			{
-				"buffer_size": 11247,
+				"buffer_size": 81991,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -300,6 +291,8 @@
 	],
 	"file_history":
 	[
+		"/C/xampp/htdocs/vers3/css/response_1023.css",
+		"/C/xampp/htdocs/vers3/article.html",
 		"/C/xampp/htdocs/penaut/wp-content/themes/raten/page-home.php",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/formsave_vak.php",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/formsave.php",
@@ -320,7 +313,6 @@
 		"/C/xampp/htdocs/vers3/product.html",
 		"/C/xampp/htdocs/vers3/css/styles.css",
 		"/C/xampp/htdocs/vers3/css/response_1185.css",
-		"/C/xampp/htdocs/vers3/css/response_1023.css",
 		"/C/xampp/htdocs/vers3/css/response_767.css",
 		"/C/xampp/htdocs/vers3/css/response_479.css",
 		"/C/xampp/htdocs/vers3/category.html",
@@ -395,7 +387,6 @@
 		"/C/xampp/htdocs/vers3/news.html",
 		"/C/xampp/htdocs/vers3/css/ion.rangeSlider.css",
 		"/C/xampp/htdocs/vers3/cart.html",
-		"/C/xampp/htdocs/vers3/article.html",
 		"/C/Users/RaTeN/Downloads/Shape (7).svg",
 		"/C/Users/RaTeN/Downloads/icons8-down_arrow.svg",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/style.css",
@@ -445,6 +436,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"акции",
 			"allInPopup",
 			"flexMenu-allInPopup\"",
 			"console",
@@ -571,8 +563,7 @@
 			"mob_scroll",
 			"rubik",
 			"https://sf.abarba.me/",
-			"#1b1b1b;",
-			"font-we"
+			"#1b1b1b;"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -594,24 +585,24 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "css/response_1023.css",
+					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 23174,
+						"buffer_size": 81991,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3916,
-								3916
+								60903,
+								60908
 							]
 						],
 						"settings":
@@ -623,131 +614,8 @@
 								{
 									"1":
 									[
-										3921,
-										3922
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"region.purplish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										3748,
-										3749
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
-							],
-							"bs_sintax": "css",
-							"buffer_scroll_name": "8ca3cbb3",
-							"spell_check": false,
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 3240.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "article.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 11247,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6864,
-								6864
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										6862,
-										6863
+										60910,
+										60913
 									]
 								},
 								"icon":
@@ -762,8 +630,8 @@
 								{
 									"1":
 									[
-										6754,
-										6755
+										60870,
+										60873
 									]
 								},
 								"unmatched":
@@ -772,16 +640,16 @@
 							},
 							"bracket_highlighter.regions":
 							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
@@ -797,44 +665,44 @@
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
 							],
 							"bs_sintax": "html",
-							"buffer_scroll_name": "a4dfd1a1",
+							"buffer_scroll_name": "1bb237cc",
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 3240.0,
+						"translation.y": 26895.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
